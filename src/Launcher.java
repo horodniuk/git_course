@@ -1,7 +1,7 @@
 public class Launcher {
     public static void main(String[] args) {
-        int a = 5;
-        int b = 3;
+        int a = 500;
+        int b = 300;
         System.out.println(add(a, b));
         System.out.println(sub(a, b));
         System.out.println(mul(a, b));
