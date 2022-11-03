@@ -3,4 +3,5 @@ add - добавить файл в систему git
 commit - сохранить в системе контроля git на локалке
 amend - добавить к последнему коммиту
 add new line
+add second line
 
