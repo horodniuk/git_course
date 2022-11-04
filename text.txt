@@ -4,4 +4,5 @@ commit - сохранить в системе контроля git на лока
 amend - добавить к последнему коммиту
 add new line
 add second line
+test with gitlab and github together
 
